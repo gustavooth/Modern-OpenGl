@@ -1,0 +1,1 @@
+clang++ -lGL -lglfw -lGLEW  src/main.cpp -o app
